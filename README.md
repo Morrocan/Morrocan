@@ -1,5 +1,5 @@
 # 💫 Bader L'Admin Réseau.:
-- 🔭 Working on **EPSI Project**<br><br>- 🌱 I’m currently learning **asm, c, c++...**<br><br>- 💬 Ask me about **Pentesting, system and network administration etc..**<br><br>- 📫 How to reach me **@twt/enclencheur**<br><br>- 📄 Acknowledged by [Accenture, DPD, Louis Vuitton...](Accenture, DPD, Louis Vuitton...)<br><br>- ⚡ Fun fact **Que du thé.**
+- 🔭 Working on **EPSI Project**<br><br>- 🌱 I’m currently learning **asm, c, c++...**<br><br>- 💬 Ask me about **Pentesting, system and network administration etc..**<br><br>- 📫 How to reach me **@dscrd : zlwb**<br><br>- 📄 Acknowledged by [Accenture, DPD, Louis Vuitton...](Accenture, DPD, Louis Vuitton...)<br><br>- ⚡ Fun fact **Que du thé.**
 
 
 # 💻 Tech Stack:
